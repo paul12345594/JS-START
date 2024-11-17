@@ -3,6 +3,6 @@ exports.subtract = (a, b ) => a - b;
 exports.multiply = (a, b ) => a * b;
 exports.divide = (a, b ) => a / b;
 
-//odule.exports = {add, subtract, multiply, divide}
+//module.exports = {add, subtract, multiply, divide}
 
 
