@@ -22,6 +22,7 @@ if(!fs.existsSync('./new')){
 
 
 
+//--------------------------------- PROCESS OF REMOVING DIRECTORY 
 if(fs.existsSync('./new')){
     fs.rmdir('./new', (err) => {
         if (err) throw err;
